@@ -10,6 +10,15 @@
 
 ![screenshot](Clima/Assets.xcassets/Screenshot.png)
 
+## Code Quality Status
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=oscar-moreno_ApplePie)<br>
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=oscar-moreno_ApplePie&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=oscar-moreno_ApplePie)<br>
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=oscar-moreno_Clima&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=oscar-moreno_ApplePie)<br>
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=oscar-moreno_Clima&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=oscar-moreno_ApplePie)<br>
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=oscar-moreno_Clima&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=oscar-moreno_ApplePie)<br><br>
+
+
+
 ## Key Features
 
 * UIKit
